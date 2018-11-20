@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Shared tslint configuration for Percy's TypeScript projects",
   "main": "tslint.json",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/percy/tslint.git"
