@@ -1,0 +1,18 @@
+{
+  "name": "@percy/tslint",
+  "version": "1.0.0",
+  "description": "Shared tslint configuration for Percy's TypeScript projects",
+  "main": "tslint.json",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/percy/tslint.git"
+  },
+  "author": "Perceptual Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/percy/tslint/issues"
+  },
+  "homepage": "https://github.com/percy/tslint#readme"
+}
